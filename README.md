@@ -1,0 +1,2 @@
+Practica git TDA
+Cambio para agregar a stage area
